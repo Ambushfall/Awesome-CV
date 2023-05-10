@@ -21,3 +21,7 @@
 ## Mac OS X metadata files:
 *.DS_Store
 
+### Latex Workshop ###
+out*
+*.gz
+*fdb_latexmk
